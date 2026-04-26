@@ -1,0 +1,6 @@
+{
+  "name": "Ziva’s Dental Care",
+  "description": "A modern dental clinic featuring a super-human AI voice agent for professional appointment booking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Voice Agent", "Appointment Booking"]
+}
